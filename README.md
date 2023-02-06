@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reberu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Django, Flask, DRF, FastAPI
+- 👀 I’m interested in Python Backend role
+- 🌱 I’m currently learning Django, Flask, DRF, FastAPI, SQLAlchemy
 - 💞️ I’m looking to collaborate on any python project
 - 📫 How to reach me redlightexit@gmail.com
 
