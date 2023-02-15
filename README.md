@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @reberu
+- 👋 Hi, I’m Evngeniy Ivanov
 - 👀 I’m interested in Python Backend role
 - 🌱 I’m currently learning Django, Flask, DRF, FastAPI, SQLAlchemy
 - 💞️ I’m looking to collaborate on any python project
